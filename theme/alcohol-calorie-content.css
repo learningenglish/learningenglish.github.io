@@ -1,0 +1,16 @@
+#alcohol-calorie-content + table,
+#alcohol-calorie-content + table tr,
+#alcohol-calorie-content + table th,
+#alcohol-calorie-content + table td {
+    border-color: white;
+}
+
+#alcohol-calorie-content + table th {
+    color: white;
+    background-color: #a90051;
+}
+
+#alcohol-calorie-content + table td {
+    color: #a90051;
+    background-color: #f8eaf2;
+}

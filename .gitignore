@@ -1,0 +1,10 @@
+.DS_Store
+
+*.bak
+.*.swp
+
+_book
+
+node_modules
+package.json
+yarn.lock

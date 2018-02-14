@@ -1,0 +1,73 @@
+#food-calories-chart-for-healthy-foods + table,
+#food-calories-chart-for-healthy-foods + table tr,
+#food-calories-chart-for-healthy-foods + table th,
+#food-calories-chart-for-healthy-foods + table td {
+    border: 0px;
+    vertical-align: top;
+}
+
+#food-calories-chart-for-healthy-foods + table th {
+    color: white;
+    width: 120px;
+    padding-bottom: 0px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    margin-bottom: 0px!important;
+}
+
+#food-calories-chart-for-healthy-foods + table tr:nth-child(1) td {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#food-calories-chart-for-healthy-foods + table th:nth-child(1),
+#food-calories-chart-for-healthy-foods + table tr:nth-child(1) td:nth-child(1) {
+    background-color: #f29200;
+}
+
+#food-calories-chart-for-healthy-foods + table th:nth-child(2),
+#food-calories-chart-for-healthy-foods + table tr:nth-child(1) td:nth-child(2) {
+    background-color: #48a823;
+}
+
+#food-calories-chart-for-healthy-foods + table th:nth-child(3),
+#food-calories-chart-for-healthy-foods + table tr:nth-child(1) td:nth-child(3) {
+    background-color: #bf000c;
+}
+
+#food-calories-chart-for-healthy-foods + table th:nth-child(4),
+#food-calories-chart-for-healthy-foods + table tr:nth-child(1) td:nth-child(4) {
+    background-color: #00a2e6;
+}
+
+#food-calories-chart-for-healthy-foods + table th:nth-child(5),
+#food-calories-chart-for-healthy-foods + table tr:nth-child(1) td:nth-child(5) {
+    background-color: #7c56a1;
+}
+
+#food-calories-chart-for-healthy-foods + table td:nth-child(1) {
+    background-color: #fbd595;
+}
+
+#food-calories-chart-for-healthy-foods + table td:nth-child(2) {
+    background-color: #b5dca9;
+}
+
+#food-calories-chart-for-healthy-foods + table td:nth-child(3) {
+    background-color: #e698a1;
+}
+
+#food-calories-chart-for-healthy-foods + table td:nth-child(4) {
+    background-color: #98daf3;
+}
+
+#food-calories-chart-for-healthy-foods + table td:nth-child(5) {
+    background-color: #ccbcd9;
+}
+
+#food-calories-chart-for-healthy-foods + table tr:last-child {
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+}

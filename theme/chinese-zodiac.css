@@ -1,0 +1,16 @@
+#chinese-zodiac ~ p > img {
+    display: block;
+    margin: 0 auto;
+}
+
+#the-12-animals-of-the-chinese-zodiac ~ ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#the-12-animals-of-the-chinese-zodiac ~ ul > li {
+    flex: 0 0 50%;
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 0px;
+}
