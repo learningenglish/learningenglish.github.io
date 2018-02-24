@@ -16,6 +16,7 @@
         },
         "custom-js-css": {
             "css": [
+                "theme/gitbook.css",
                 "theme/alcohol-calorie-content.css",
                 "theme/food-calories-chart.css",
                 "theme/food-vocabulary.css",

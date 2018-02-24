@@ -1,0 +1,4 @@
+.book .book-summary nav ul.summary li:nth-last-child(2),
+.book .book-summary nav ul.summary li:last-child {
+    display: none!important;
+}
