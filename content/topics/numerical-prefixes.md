@@ -1,0 +1,82 @@
+# Numerical Prefixes
+
+- Uni, mono, or solo
+- One
+- Bi or duo
+- Two
+- Tri
+- Three
+- Tetra, quad
+- Four
+- Penta, quint, or quin
+- Five
+- Sex, hex, hexa
+- Six
+- Hepta, sept, or hept
+- Seven
+- Octa, octo, or oct
+- Eight
+- Nona, non, nov, or ennea
+- Nine
+- Deca or dec
+- Ten
+- Dodeca
+- Twelve
+- Icosa, or vigint
+- Twenty
+- Triaconta, or trigint
+- Thirty
+- Tetraconta, or quadragint
+- Fourty
+- Pentaconta or quinquagint
+- Fifty
+- Hexaconta or hexagint
+- Sixty
+- Heptaconta or septuagint
+- Seventy
+- Octaconta or octogint
+- Eighty
+- Enneaconta or nonagint
+- Ninety
+- Cent or hect 
+- One Hundred
+- Mille or kilo
+- One Thousand
+- Myria 
+- Ten Thousand
+- Mega
+- Million
+- Hectokilo
+- One Hundred Thousand
+- Giga
+- Billion
+- Tera
+- Trillion
+- Peta
+- Quadrillion
+- Exa
+- Quintillion
+- Zetta
+- Sextillion
+- Yotta
+- Heptillion
+- Deci
+- Tenth
+- centi
+- Hundredth
+- Milli
+- Thousandth
+- Micro
+- Millionth
+- Nano
+- Billionth
+- Pico
+- Trillionth
+- Fento
+- Quadrillionth
+- Atto
+- Quintillionth
+- Zepto
+- Sextillionth
+- Yocto
+- Heptillionth

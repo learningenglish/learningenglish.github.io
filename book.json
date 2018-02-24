@@ -20,7 +20,8 @@
                 "theme/alcohol-calorie-content.css",
                 "theme/food-calories-chart.css",
                 "theme/food-vocabulary.css",
-                "theme/chinese-zodiac.css"
+                "theme/chinese-zodiac.css",
+                "theme/numerical-prefixes.css"
             ]
         }
     }

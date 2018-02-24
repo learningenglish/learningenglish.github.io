@@ -4,6 +4,10 @@
 
 * [Introduction](README.md)
 
+### Science
+
+* [Numerical Prefixes](content/topics/numerical-prefixes.md)
+
 ### Lifestyle
 
 * [Chinese Zodiac](content/topics/chinese-zodiac.md)
