@@ -1,0 +1,9 @@
+#food-vocabulary ~ h3 + ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+#food-vocabulary ~ h3 + ul li {
+    flex: 0 0 25%;
+    display: flex;
+    align-items: flex-end;
+}
