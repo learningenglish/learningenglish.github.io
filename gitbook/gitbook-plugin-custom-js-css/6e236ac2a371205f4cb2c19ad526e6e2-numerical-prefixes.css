@@ -1,0 +1,10 @@
+#numerical-prefixes ~ ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#numerical-prefixes ~ ul > li {
+    flex: 0 0 50%;
+    display: flex;
+    align-items: flex-end;
+}
